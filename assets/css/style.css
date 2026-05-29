@@ -151,6 +151,41 @@ button:hover{
     padding: 30px;
 }
 
+/*Diseño de Seccion de Mis Conocimientos*/
+.knowledge-section{
+    background-color: white;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: auto;
+}
+
+.knowledge-section h1{
+    padding-top: 20px;
+    margin-bottom: 25px;
+}
+
+.knowledge-section b{
+    color: red;
+}
+
+.knowledge-section b:hover{
+   color:black;
+}
+
+.tech-knowledge h3{
+    margin-bottom: 25px;
+}
+
+img {
+    width: auto;
+    height: 80px;
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+
+
+
 
 
 
